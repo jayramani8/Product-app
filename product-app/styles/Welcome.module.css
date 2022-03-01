@@ -1,0 +1,28 @@
+.welcome{
+    color: blue;
+}
+.card{
+    display: table-cell;
+    padding: 10px;
+
+    /* background: rgb(214, 217, 221) */
+ /* display: flex; */
+}
+.card img{
+    height: 350px;
+    border-radius: 18px 18px 0px 0px;
+}
+.cardbody{
+    background: white;
+    border-radius:0px 0px 18px 18px ;
+    margin-top: -8px;
+
+}
+.Cardtitle{
+    display: table-cell;
+    font-weight: 600;
+    font-size: 15px;
+    height: 140px;
+    padding: 10px;
+
+}
